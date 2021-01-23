@@ -1,0 +1,9 @@
+python-telegram-bot
+
+## dev
+# black
+# isort
+# flake8
+# pytest
+# mypy
+# pre-commit
